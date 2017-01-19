@@ -4,5 +4,5 @@ Included functions:
 
 | Function call | Description |
 | ------------- | ----------- | 
-| `ustep(t)`    | Returns an array of the ustep function across times t |
-| `ramp(t)`     | Returns an array of the ramp function across times t |
+| `ustep(t)`    | Returns an array of the ustep function across times `t` |
+| `ramp(t)`     | Returns an array of the ramp function across times `t` |
