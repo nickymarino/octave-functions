@@ -6,4 +6,4 @@ Included functions:
 | ------------- | ----------- | 
 | `ustep(t)`    | Returns an array of the ustep function across times `t` |
 | `ramp(t)`     | Returns an array of the ramp function across times `t` |
-|  par(t)       | Returns the equivalent resistance of two parallel resistors `a` and `b` |
+| `par(t)`      | Returns the equivalent resistance of two parallel resistors `a` and `b` |
